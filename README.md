@@ -1,44 +1,66 @@
 # The Pressure-Field Theory of Gravity (PFTG)
 
-**Author:** Joey Harper  
-**Date:** June 27, 2025  
-**Version:** v1.0.0
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734166.svg)](https://doi.org/10.5281/zenodo.15734166)
 
-This repository contains the full LaTeX source, figures, and compiled PDF for:
+## 🌀 A Field-Based Theory of Everything
 
-**_The Pressure-Field Theory of Gravity: Toward a Field-Based Theory of Everything_**
+The Pressure-Field Theory of Gravity (PFTG) proposes a unified framework where gravity, electromagnetism, and the nuclear forces emerge from coherent modes of a fundamental pressure field Φ. Unlike spacetime curvature models, PFTG defines gravity as a dynamic response to spatial pressure gradients, enabling elegant coupling across energy scales.
 
 ---
 
-## 🧠 Abstract
+## 📄 Included in this Repository
 
-The Pressure-Field Theory of Gravity (PFTG) proposes a unified framework where gravity, gauge forces, mass, and quantum behavior all emerge from a single scalar pressure field, \( \Phi(x, t) \).  
-It replaces spacetime curvature with pressure gradients, interprets fundamental forces as harmonics of the field, and models particles as soliton wavepackets in the same pressure medium.
-
----
-
-## 📁 Included Files
-
-- `PFTG_TOE.tex` – Full LaTeX source
-- `PFTG_TOE.pdf` – Final compiled paper
-- **Figures:**
-  - `2D_Pressure_Soliton.png` – Static field soliton (gravitational potential)
-  - `2D_Energy_Density.png` – Energy density \( T_{00}(r) \)
-  - `Field_Modes_U1_SU2_SU3.jpeg` – Harmonic gauge modes (EM, Weak, Strong)
-  - `Energy_Density_Profile.jpeg` – Harmonic field oscillation energy
-  - `Soliton_Wavepacket.png` – Quantum particle as pressure soliton wavepacket
+- `PFTG_TOE.pdf` – Final rendered version of the paper  
+- `PFTG_TOE.tex` – Full LaTeX source for Overleaf or manual builds  
+- `Field_Modes_U1_SU2_SU3.png` – Visual breakdown of gauge-field mode unification  
+- `2D_Pressure_Soliton.png` – Φ(r) soliton structure  
+- `2D_Energy_Density.png` – Energy density map from Φ(r)  
+- `Soliton_Wavepacket.png` – Particle analog as a pressure wavepacket  
+- `Energy_Density_Profile.jpeg` – T₀₀(x) energy profile
 
 ---
 
-## 📘 Citation
+## 🌐 Zenodo Publication  
+🔗 DOI: [10.5281/zenodo.15734166](https://doi.org/10.5281/zenodo.15734166)  
+🗓️ Released: June 27, 2025  
+📦 Type: Software & Theoretical Framework
 
-If you use or reference this work, please cite:
+---
+
+## 🔬 Abstract
+
+This work develops a field-based alternative to General Relativity and Quantum Field Theory by modeling all interactions as emergent pressure dynamics. Gauge fields (U(1), SU(2), SU(3)) arise as harmonic modes of a unified scalar field Φ(x), with solitonic structures representing particles and energy distributions. Entropy gradients generate effective forces, predicting lensing, rotation curves, and gravitational wave analogs without requiring dark matter or dark energy.
+
+---
+
+## 🚀 Goals of the PFTG Framework
+
+- ✅ Replace spacetime curvature with pressure gradient physics  
+- ✅ Derive gauge interactions from harmonic field modes  
+- ✅ Unify field dynamics across EM, weak, strong, and gravity  
+- ✅ Produce falsifiable predictions for lensing, CMB, and more  
+- ✅ Support soliton-based particle analogs within the same framework  
+
+---
+
+## 🧠 Author  
+**Joey Harper**  
+🔬 Independent Researcher | ⚙️ Mechanic & Field Theorist  
+📫 [GitHub Profile](https://github.com/joeyharper52)  
+
+---
+
+## 📖 Citation
+
+Please cite using:
 
 ```bibtex
-@article{harper2025pftg,
-  title={The Pressure-Field Theory of Gravity: Toward a Field-Based Theory of Everything},
-  author={Harper, Joey},
-  journal={Zenodo},
-  year={2025},
-  doi={10.5281/zenodo.XXXXXXX}
+@software{harper2025pftg,
+  author       = {Joey Harper},
+  title        = {The Pressure-Field Theory of Gravity (PFTG)},
+  year         = 2025,
+  version      = {v1.0.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15734166},
+  url          = {https://doi.org/10.5281/zenodo.15734166}
 }
